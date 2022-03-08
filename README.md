@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RaulBirlem from Brazil
 - 👀 I’m interested in front-end and back-end 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React JS
 - 📫 How to reach me on Discord : RaulB.#8849
 
 <!---
